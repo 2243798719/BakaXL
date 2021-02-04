@@ -7,38 +7,38 @@
 	</Type>
 	<Language Key="zh_CC">
 		<Items>
-			<Item Key="BakaXLTitle">BakaXL - Minecraft 启动器</Item>
+			<Item Key="BakaXLTitle">BakaXL - 使 Minecraft 动者</Item>  <!-- 者：[原意 ……的(人)，在此]译为……的器物。 -->
 			
-			<Item Key="NoUserName">未设置游戏ID</Item>
+			<Item Key="NoUserName">未置戏之证之身份</Item>   <!-- 未：没有；置：设置；证：取消句子独立性。证：n.证明。 -->
 			
-			<Item Key="Loading">载入中</Item>
-			<Item Key="PleaseWait">请稍等…</Item>
-			<Item Key="LoadingPlugins">插件</Item>
+			<Item Key="Loading">将入</Item>   <!-- 将：将要，即将；入：进入 -->
+			<Item Key="PleaseWait">烦候…</Item>       <!-- 烦：烦请；候：等待 -->
+			<Item Key="LoadingPlugins">外额之置</Item>
 
 			<Item Key="Window_ReportIssue_Title">反馈问题</Item>
 			<Item Key="Window_ReportIssue_Tips">前往BakaXL官方Github仓库提交Issues</Item>
 			
 			<Item Key="Window_GetHelp_Title">获取帮助</Item>
-			<Item Key="Window_GetHelp_Tips">遇到问题？不会使用？访问我们的帮助页面</Item>
+			<Item Key="Window_GetHelp_Tips">览帮助页面以获我之助</Item>       <!-- 览：浏览；以：用来；获：得到，获得；我：我们(文言中常以吾自称，以我为我们)；之：的；助：帮助。 -->
 
 			<Item Key="Window_HomeMenu_Btn">主页</Item>
 
-			<Item Key="LaunchBar_Hello">您好！{0}</Item>
+			<Item Key="LaunchBar_Hello">您好{0}</Item>
 			<Item Key="LaunchBar_Launch">启动游戏</Item>
-			<Item Key="LaunchBar_NoCore">&lt;尚未选择核心&gt;</Item>
+			<Item Key="LaunchBar_NoCore">&lt;核心未择&gt;</Item>        <!-- 未：没有；择：选择。 -->
 
-			<Item Key="LaunchBar_SelectCore_Animation_Title">选择游戏核心的方法</Item>
+			<Item Key="LaunchBar_SelectCore_Animation_Title">择游戏核心之法</Item>       <!-- 择：选择；之：的；法：方法。 -->
 			<Item Key="LaunchBar_SelectCore_Animation_Click">按住 &quot;启动游戏&quot; 按钮</Item>
-			<Item Key="LaunchBar_SelectCore_Animation_Drag">向右拖拽</Item>
+			<Item Key="LaunchBar_SelectCore_Animation_Drag">右拽</Item>       <!-- 右：(方位名词作动词)向右；拽：拖拽。 -->
 
-			<Item Key="LaunchBar_SelectCore_BtnTitle">切换 Minecraft 游戏核心</Item>
+			<Item Key="LaunchBar_SelectCore_BtnTitle">易换核心</Item>   <!-- 易：切换；换：(同意动词连用)。 -->
 
 			<Item Key="LaunchBar_SelectCore_Title">选择核心</Item>
-			<Item Key="LaunchBar_SelectCore_Management">核心管理</Item>
-			<Item Key="LaunchBar_SelectCore_Management_Tips">选择、调整和管理你的游戏核心</Item>
+			<Item Key="LaunchBar_SelectCore_Management">核心之治</Item> <!-- 治：治理，管理。 -->
+			<Item Key="LaunchBar_SelectCore_Management_Tips">择调与管治汝之游戏核心</Item>     <!-- 汝：你；之：的。 -->
 			<Item Key="LaunchBar_SelectCore_DragEasterEgg">别拽啦！</Item>
 
-			<Item Key="LaunchBar_LaunchBtn_Error_Title">无法启动游戏</Item>
+			<Item Key="LaunchBar_LaunchBtn_Error_Title">无法使戏动</Item> <!-- 无法：无法，没有方法；使：让，令；动：运动，行。 -->
 			<Item Key="LaunchBar_LaunchBtn_Error_NoProfile">未设置用户档案</Item>
 			<Item Key="LaunchBar_LaunchBtn_Error_NoCore">尚未设置游戏核心</Item>
 			<Item Key="LaunchBar_LaunchBtn_Error_NoCoreFolder">核心文件夹不存在</Item>
@@ -559,7 +559,7 @@
 			
 			<Item Key="Setting_Support_Tips">欢迎来到BakaXL本体设置！我们正在努力为BakaXL添加更多精彩的功&#xD;&#xA;能！部分不可用的选项是BakaXL 3.0尚未开发完善的功能。目前，我们正在&#xA;根据各位的需求调整此界面中的功能。希望您能喜欢！</Item>
 			<Item Key="Setting_Support_Website">BakaXL帮助与支持网站</Item>
-			<Item Key="Setting_Support_WebsiteTips">若要了解如何更好的使用BakaXL及其功能，或取得帮助，您可以通过您的&#xD;&#xA;电脑或者智能设备访问BakaXL帮助与支持网站。</Item>
+			<Item Key="Setting_Support_WebsiteTips">受开发者的限制，部分翻译文本未开放&#xD;&#xA;若要了解如何更好的使用BakaXL及其功能，或取得帮助，您可以通过您的&#xD;&#xA;电脑或者智能设备访问BakaXL帮助与支持网站。</Item>
 			<Item Key="Setting_Support_SafeUse">安全使用指引</Item>
 			<Item Key="Setting_Support_ErrorHistory">笨蛋罐头历史</Item>
 			<Item Key="Setting_Support_Troubleshooting">疑难解答向导</Item>
