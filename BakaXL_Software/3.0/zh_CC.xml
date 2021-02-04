@@ -7,25 +7,25 @@
 	</Type>
 	<Language Key="zh_CC">
 		<Items>
-			<Item Key="BakaXLTitle">BakaXL - Minecraft 启动器</Item>
+			<Item Key="BakaXLTitle">BakaXL - 使 Minecraft 动者</Item>  <-- 者：[原意 ……的(人)，在此]译为……的器物。 -->
 			
-			<Item Key="NoUserName">未设置游戏ID</Item>
+			<Item Key="NoUserName">未置戏之证之身份</Item>   <-- 未：没有；置：设置；证：取消句子独立性。证：n.证明。 -->
 			
-			<Item Key="Loading">载入中</Item>
-			<Item Key="PleaseWait">请稍等…</Item>
-			<Item Key="LoadingPlugins">插件</Item>
+			<Item Key="Loading">将入</Item>   <-- 将：将要，即将；入：进入 -->
+			<Item Key="PleaseWait">烦候…</Item>       <-- 烦：烦请；候：等待 -->
+			<Item Key="LoadingPlugins">外额之置</Item>
 
 			<Item Key="Window_ReportIssue_Title">反馈问题</Item>
 			<Item Key="Window_ReportIssue_Tips">前往BakaXL官方Github仓库提交Issues</Item>
 			
 			<Item Key="Window_GetHelp_Title">获取帮助</Item>
-			<Item Key="Window_GetHelp_Tips">遇到问题？不会使用？访问我们的帮助页面</Item>
+			<Item Key="Window_GetHelp_Tips">览帮助页面以获我之助</Item>       <-- 览：浏览；以：用来；获：得到，获得；我：我们(文言中常以吾自称，以我为我们)；之：的；助：帮助。 -->
 
 			<Item Key="Window_HomeMenu_Btn">主页</Item>
 
-			<Item Key="LaunchBar_Hello">您好！{0}</Item>
+			<Item Key="LaunchBar_Hello">您好{0}</Item>
 			<Item Key="LaunchBar_Launch">启动游戏</Item>
-			<Item Key="LaunchBar_NoCore">&lt;尚未选择核心&gt;</Item>
+			<Item Key="LaunchBar_NoCore">&lt;核心未择&gt;</Item>        <-- 未：没有；择：选择。 -->
 
 			<Item Key="LaunchBar_SelectCore_Animation_Title">选择游戏核心的方法</Item>
 			<Item Key="LaunchBar_SelectCore_Animation_Click">按住 &quot;启动游戏&quot; 按钮</Item>
