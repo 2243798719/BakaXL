@@ -9,11 +9,11 @@
 		<Items>
 			<Item Key="BakaXLTitle">BakaXL - Minecraft 启动器</Item>
 			
-			<Item Key="NoUserName">未设置游戏ID</Item>
+			<Item Key="NoUserName">未置戏身份之证</Item>
 			
-			<Item Key="Loading">载入中</Item>
-			<Item Key="PleaseWait">请稍等…</Item>
-			<Item Key="LoadingPlugins">插件</Item>
+			<Item Key="Loading">将入</Item>	
+			<Item Key="PleaseWait">烦候…</Item>	//烦：烦请 候：等待
+			<Item Key="LoadingPlugins">外额之置</Item>
 
 			<Item Key="Window_ReportIssue_Title">反馈问题</Item>
 			<Item Key="Window_ReportIssue_Tips">前往BakaXL官方Github仓库提交Issues</Item>
